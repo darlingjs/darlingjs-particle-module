@@ -17,6 +17,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:darlingjs/bower-particles-module.git"
+    "url": "git@github.com:darlingjs/darlingjs-particle-module.git"
   }
 }
